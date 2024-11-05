@@ -1,0 +1,79 @@
+﻿{
+    "sensors_info": [
+        {
+            "id": "0",
+            "sensor_id": "303",
+            "name": "Phase A RMS Current"
+        },
+        {
+            "id": "1",
+            "sensor_id": "304",
+            "name": "Phase B RMS Current"
+        },
+        {
+            "id": "2",
+            "sensor_id": "305",
+            "name": "Phase C RMS Current"
+        },
+        {
+            "id": "3",
+            "sensor_id": "306",
+            "name": "Phase A RMS Voltage"
+        },
+        {
+            "id": "4",
+            "sensor_id": "307",
+            "name": "Phase B RMS Voltage"
+        },
+        {
+            "id": "5",
+            "sensor_id": "308",
+            "name": "Phase C RMS Voltage"
+        },
+        {
+            "id": "6",
+            "sensor_id": "324",
+            "name": "Phase A Active Power"
+        },
+        {
+            "id": "7",
+            "sensor_id": "325",
+            "name": "Phase B Active Power"
+        },
+        {
+            "id": "8",
+            "sensor_id": "326",
+            "name": "Phase C Active Power"
+        },
+        {
+            "id": "9",
+            "sensor_id": "327",
+            "name": "Phase A Apparent Power"
+        },
+        {
+            "id": "10",
+            "sensor_id": "328",
+            "name": "Phase B Apparent Power"
+        },
+        {
+            "id": "11",
+            "sensor_id": "329",
+            "name": "Phase C Apparent Power"
+        },
+        {
+            "id": "12",
+            "sensor_id": "330",
+            "name": "Phase A Power Factor"
+        },
+        {
+            "id": "13",
+            "sensor_id": "331",
+            "name": "Phase B Power Factor"
+        },
+        {
+            "id": "14",
+            "sensor_id": "332",
+            "name": "Phase C Power Factor"
+        }
+    ]
+}

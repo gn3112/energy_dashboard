@@ -1,0 +1,17 @@
+﻿id,name,group,tag,process
+14,Warehouse Forklift 1,Logistics,WF_1,Material Handling
+15,Warehouse Forklift 2,Logistics,WF_2,Material Handling
+24,Conveyor Belt System,Material Handling,CBS_1,Material Handling
+28,Robotic Arm,Automation,RA_1,Material Handling
+0,Assembly Line A,Production,AL_A,Assembly
+1,Assembly Line B,Production,AL_B,Assembly
+20,3D Printer,Prototyping,3DP_1,Assembly
+2,CNC Machine 1,Machining,CNC_1,Cutting
+3,CNC Machine 2,Machining,CNC_2,Cutting
+21,Laser Cutter,Fabrication,LC_1,Cutting
+4,Injection Molder 1,Molding,IM_1,Plastic Molding
+5,Injection Molder 2,Molding,IM_2,Plastic Molding
+22,Industrial Oven,Heat Treatment,IO_1,Plastic Molding
+6,Welding Station 1,Fabrication,WS_1,Welding
+7,Welding Station 2,Fabrication,WS_2,Welding
+27,Electric Furnace,Heat Treatment,EF_1,Welding
